@@ -1,0 +1,1 @@
+# microservices-stock-config-server
